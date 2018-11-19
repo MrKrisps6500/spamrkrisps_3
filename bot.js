@@ -83,7 +83,7 @@ client4.on("message", message => {
 
 
 client.on('message', message => { 
-if (message.content === 'Kspam') {
+if (message.content === 'Kspam4') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -98,7 +98,7 @@ if (message.content === 'Kspam') {
 
 
 client2.on('message', message => { 
-if (message.content === 'Kspam') {
+if (message.content === 'Kspam4') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -114,7 +114,7 @@ if (message.content === 'Kspam') {
 
 
 client3.on('message', message => {
-if (message.content === 'Kspam') {
+if (message.content === 'Kspam4') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
@@ -130,7 +130,7 @@ if (message.content === 'Kspam') {
 
 
 client4.on('message', message => {
-if (message.content === 'Kspam') {
+if (message.content === 'Kspam4') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
